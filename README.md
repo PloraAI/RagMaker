@@ -93,8 +93,8 @@ HtmlToRAG/
 **1. Clone the repository**
 
 ```bash
-git clone <your-repository-url>
-cd HtmlToRAG
+git clone https://github.com/PloraAI/RagMaker
+cd RagMaker
 ```
 
 **2. (Recommended) Create a virtual environment**
@@ -252,7 +252,7 @@ Each line of `chunks.jsonl` is one self-contained JSON object:
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for details.
 
 ---
 
