@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 
-Developed and published by **Plora AI**.
+Developed and published by **Jascal AI**.
 
 ---
 
@@ -93,7 +93,7 @@ HtmlToRAG/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/PloraAI/RagMaker
+git clone https://github.com/JascalAI/RagMaker
 cd RagMaker
 ```
 
@@ -256,4 +256,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md
 
 ---
 
-<p align="center">Developed and published by <b>Plora AI</b></p>
+<p align="center">Developed and published by <b>Jascal AI</b></p>
